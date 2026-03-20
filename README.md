@@ -1,11 +1,11 @@
-#Course project
+# Course project
 
-#Task Description 
+# Task Description 
 You are required to design a personal portfolio website for yourself using html, css and javascript.
 A portfolio website provides relevant information to potential employers about your skills, experience, and projects you've worked on. You can consider your portfolio website to be your online resume. Moreover, a portfolio will not only enhance your online presence but will also show evidence of your expertise in a field.
 
 
-#Project tasks
+# Project tasks
 . Design a professional portfolio website using html, css, js and bootstrap
 . Host the website online using github
 . Ensure that there are no errors on the website
@@ -13,7 +13,7 @@ A portfolio website provides relevant information to potential employers about y
 . Carry our SEO for the website
 
 
-#How did I do it ?
+# How did I do it ?
 1. Homepage section
   - To introduce my name, I used JavaScript to create a typewriter animation which is active on DOMContentLoaded. It makes the introduction interactive.
 2. About section
@@ -31,6 +31,6 @@ A portfolio website provides relevant information to potential employers about y
 7. Contact section
   - The contact section uses an HTML form for communication, styled with CSS. Currently, the form is static, but it could be connected to a backend later.
 
-#Resources that I used
+# Resources that I used
 - glass effect = ui glass website
 - project circular path = css tricks website 
