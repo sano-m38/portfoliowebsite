@@ -6,12 +6,9 @@ A portfolio website provides relevant information to potential employers about y
 
 
 # Project tasks
-. Design a professional portfolio website using html, css, js and bootstrap
-. Host the website online using github
-. Ensure that there are no errors on the website
-. Optimise the website for performance
-. Carry our SEO for the website
-
+Design a professional portfolio website using html, css, js and bootstrap.
+Host the website online using github.
+Ensure that there are no errors on the website.
 
 # How did I do it ?
 1. Homepage section
@@ -25,12 +22,12 @@ A portfolio website provides relevant information to potential employers about y
   - The first two view more buttons lead to individual project pages where I included a carousel to display relevant pictures.
   - Each card has a circular clip-path hover animation, revealing or hiding the image dynamically. The last project is still in progress, and I included a SweetAlert popup for visitors who click it.
 5. Books section
-  - It displays a set of book cover images arranged horizontally. When the user hovers over a book, it comes forward and becomes fully visible, while the others fade slightly. This 3D-like reflection and rotation     effect     was achieved using CSS transform, transition, and box-reflection, giving a dynamic bookshelf look.
+  - It displays a set of book cover images arranged horizontally. When the user hovers over a book, it comes forward and becomes fully visible, while the others fade slightly. This 3D-like reflection and rotation effect was achieved using CSS transform, transition, and box-reflection, giving a dynamic bookshelf look.
 6. Fitness section
   - It’s a simple static section that keeps the same design style, showing my personal side outside of IT.
 7. Contact section
   - The contact section uses an HTML form for communication, styled with CSS. Currently, the form is static, but it could be connected to a backend later.
 
 # Resources that I used
-- glass effect = ui glass website
+- glass effect = ui glass website https://codepen.io/Coding-Artist/pen/jOMwVYQ
 - project circular path = css tricks website 
