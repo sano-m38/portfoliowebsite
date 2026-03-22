@@ -29,5 +29,11 @@ Ensure that there are no errors on the website.
   - The contact section uses an HTML form for communication, styled with CSS. Currently, the form is static, but it could be connected to a backend later.
 
 # Resources that I used
-- glass effect = ui glass website https://codepen.io/Coding-Artist/pen/jOMwVYQ
-- project circular path = css tricks website 
+- glass effect: https://codepen.io/Coding-Artist/pen/jOMwVYQ
+- schroll effect: https://michalsnik.github.io/aos/
+- dynamics alerts: https://sweetalert2.github.io/
+
+
+- typewriter effect: 
+- 3d book effect: https://www.youtube.com/watch?v=xdap5e3-DwM , https://www.youtube.com/watch?v=ZSQuEAVEHGs and https://www.youtube.com/watch?v=ST3sH1DmH8k
+- circular clip-path hover animation: https://css-tricks.com/animating-with-clip-path/ and https://www.youtube.com/watch?v=2C1JZciXLD4&list=WL&index=6
