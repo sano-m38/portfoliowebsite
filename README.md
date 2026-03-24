@@ -5,10 +5,10 @@ You are required to design a personal portfolio website for yourself using html,
 A portfolio website provides relevant information to potential employers about your skills, experience, and projects you've worked on. You can consider your portfolio website to be your online resume. Moreover, a portfolio will not only enhance your online presence but will also show evidence of your expertise in a field.
 
 
-# Project tasks
-Design a professional portfolio website using html, css, js and bootstrap.
-Host the website online using github.
-Ensure that there are no errors on the website.
+# Project features
+- Design a professional portfolio website using html, css, js and bootstrap.
+- Host the website online using github.
+- Ensure that there are no errors on the website.
 
 # How did I do it ?
 1. Homepage section
