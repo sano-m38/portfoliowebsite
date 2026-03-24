@@ -29,6 +29,7 @@ A portfolio website provides relevant information to potential employers about y
   - The contact section uses an HTML form for communication, styled with CSS. Currently, the form is static, but it could be connected to a backend later.
 
 # Resources that I used
+- Navigation bar - bootstrap: https://getbootstrap.com/docs/5.3/components/navbar/
 - glass effect: https://codepen.io/Coding-Artist/pen/jOMwVYQ
 - scroll effect: https://michalsnik.github.io/aos/
 - dynamic alert: https://sweetalert2.github.io/
